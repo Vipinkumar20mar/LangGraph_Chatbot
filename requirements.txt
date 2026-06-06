@@ -1,9 +1,13 @@
 langgraph
+langgraph-checkpoint-postgres
+
 langchain
 langchain-core
 langchain-community
 langchain-groq
+
 python-dotenv
 streamlit
+
+psycopg[binary]
 psycopg2-binary
-langgraph-checkpoint-postgres 
